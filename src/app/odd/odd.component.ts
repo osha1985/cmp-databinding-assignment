@@ -14,7 +14,6 @@ export class OddComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log('Odd');
   }
 
 }

@@ -14,7 +14,7 @@ export class EvenComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log('Even');
+
   }
 
 }
